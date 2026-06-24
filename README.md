@@ -92,8 +92,6 @@ Use headings, bullets, tables, metadata, and consistent templates. Structured co
 ```text
 /
 ├── README.md
-├── CONTRIBUTING.md
-├── CODEOWNERS
 ├── /knowledge
 │   ├── /general
 │   ├── /glossary
@@ -101,6 +99,7 @@ Use headings, bullets, tables, metadata, and consistent templates. Structured co
 │   ├── /how-to
 │   ├── /reference
 │   ├── /standards
+│   ├── /projects
 │   ├── /playbooks
 │   └── /decisions
 ├── /sources
@@ -142,6 +141,10 @@ Approved standards, rules, requirements, or expected practices.
 #### `/knowledge/playbooks`
 
 Operational response guides, workflows, and repeatable procedures.
+
+#### `/knowledge/projects`
+
+Current projects and plans. Projects are either work or personal.
 
 #### `/knowledge/decisions`
 
